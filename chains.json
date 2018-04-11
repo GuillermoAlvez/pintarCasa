@@ -37,5 +37,14 @@
       }
     },
     "name": "development"
+  },
+  "0x170d5babcb1d6765e16ba985b9c4eb04f6206d29385e613a2c691d76b9b66dc7": {
+    "contracts": {
+      "0xfa0fe9af20d3a9f02eef08178c3b1d5d2cf01876e9ca919f3356513f4b1644c1": {
+        "name": "pintarCasa",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
   }
 }
