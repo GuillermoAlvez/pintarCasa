@@ -17,13 +17,7 @@
     "contracts": {
       "pintarCasa":{
         "fromIndex":0,
-        "args": [
-          "0xf6d5c6d500cac10ee7e6efb5c1b479cfb789950a",
-          1,
-          1,
-          1
-
-        ]
+        "deploy":false
       }
     }
   }

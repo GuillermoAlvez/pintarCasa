@@ -46,5 +46,152 @@
       }
     },
     "name": "development"
+  },
+  "0xd20b7054d5cd5e67d88eac4df13d621594e308f7bd2eb0d4bc11fabc2139cad9": {
+    "contracts": {
+      "0xfa0fe9af20d3a9f02eef08178c3b1d5d2cf01876e9ca919f3356513f4b1644c1": {
+        "name": "pintarCasa",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0xa3005534f20df690c74842aaa66c1b153d23047ce2cfd627ddf7b0a37bdc0b5d": {
+    "contracts": {
+      "0xfa0fe9af20d3a9f02eef08178c3b1d5d2cf01876e9ca919f3356513f4b1644c1": {
+        "name": "pintarCasa",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0x5a5e26b7d9c983e287731fb80518d08f0b492e88671d36c4221250eeaae0cc4a": {
+    "contracts": {
+      "0xfa0fe9af20d3a9f02eef08178c3b1d5d2cf01876e9ca919f3356513f4b1644c1": {
+        "name": "pintarCasa",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0x770b458ba8e2a10fa9c53eab76801479d76515fbd44d64162f9cde9f96a6c4d8": {
+    "contracts": {
+      "0xfa0fe9af20d3a9f02eef08178c3b1d5d2cf01876e9ca919f3356513f4b1644c1": {
+        "name": "pintarCasa",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0x0cd8d185197a14648b22f356ebdd9e80e06732b4125c59b4de1a681855364953": {
+    "contracts": {
+      "0x3e655f8fb8b3d197e30b24bc49c5ee73b992e138543493525345980a3b1b027f": {
+        "name": "SimpleStorage",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0x2f4db9ac05bea8c4b2b2797bd7e089b91e507c1c2e029b4154b90d7ceceaa661": {
+    "contracts": {
+      "0x3e655f8fb8b3d197e30b24bc49c5ee73b992e138543493525345980a3b1b027f": {
+        "name": "SimpleStorage",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0x25579b3376d8bc0375d464216808dd6fc5068c647f4351efa98c76cac4e75022": {
+    "contracts": {
+      "0x3e655f8fb8b3d197e30b24bc49c5ee73b992e138543493525345980a3b1b027f": {
+        "name": "SimpleStorage",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      },
+      "0x50544c9f4a282bd457862bd4decd515411217aa4a7d17577f61e44356232cda1": {
+        "name": "fabricPainter",
+        "address": "0x10Aa1c9C2ad79b240Dc612cd2c0c0f5513bAfF28"
+      }
+    },
+    "name": "development"
+  },
+  "0x3ffffef646332f60708a67bd81f473ec48a99418bf9bbc2f57b31a60bb67ea2a": {
+    "contracts": {
+      "0x3e655f8fb8b3d197e30b24bc49c5ee73b992e138543493525345980a3b1b027f": {
+        "name": "SimpleStorage",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      },
+      "0x50544c9f4a282bd457862bd4decd515411217aa4a7d17577f61e44356232cda1": {
+        "name": "fabricPainter",
+        "address": "0x10Aa1c9C2ad79b240Dc612cd2c0c0f5513bAfF28"
+      },
+      "0x22bb31f70e3af3b8e7ba755c1b54f193188deb171ceb64ef632afc04c55ccdf1": {
+        "name": "fabricPainter",
+        "address": "0xd8a512EBD6fd82f44dFFD968EEB0835265497d20"
+      },
+      "0x6ca4e1f4d3e1c3383bdefca01af73d6923d1a72a4b9e137f8ce2b38dd1cd4396": {
+        "name": "fabricPainter",
+        "address": "0x494748735312D87C54Ff36E9dc71f90fb800D7Df"
+      },
+      "0xd5663337e37cc6eb832ddca2d39de9f04b5c36611f7a8593cb1e753efc58df6c": {
+        "name": "fabricPainter",
+        "address": "0x6427A6200Bed37FC1e512BdeA49D25Aa9089CF47"
+      },
+      "0x1b4db87d19ba1c3776310f047e499f3a33e24f5db955a777468787763fc5522e": {
+        "name": "fabricPainter",
+        "address": "0x8B9AF00A6D29E7D687610E9dDB022c496DB551dE"
+      },
+      "0x9fbb12cc4ea6cd319b412cc2a6a2fa8eed915a39b70d3c873240c910a8c5202f": {
+        "name": "fabricPainter",
+        "address": "0x8B9AF00A6D29E7D687610E9dDB022c496DB551dE"
+      }
+    },
+    "name": "development"
+  },
+  "0xcc7289184792ed73d1235a5a34dd4c9706408fb4e3e4732a9e7e5c95adce2966": {
+    "contracts": {
+      "0x9fbb12cc4ea6cd319b412cc2a6a2fa8eed915a39b70d3c873240c910a8c5202f": {
+        "name": "fabricPainter",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0x247e1fb6c6c2386eb2a7224e597dc07d0caca41ab64778c770460f0322fdb29e": {
+    "contracts": {
+      "0x9fbb12cc4ea6cd319b412cc2a6a2fa8eed915a39b70d3c873240c910a8c5202f": {
+        "name": "fabricPainter",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      },
+      "0xb49c4606caaaee8bbd39e7378a680e2850efdd7630b72e4707d4afc472ce7f19": {
+        "name": "fabricPainter",
+        "address": "0x10Aa1c9C2ad79b240Dc612cd2c0c0f5513bAfF28"
+      },
+      "0xfe44aeba731f47fce0fdd8965fafbf4b66b8222efcdc0747eafe3429b496a1f6": {
+        "name": "fabricPainter",
+        "address": "0xd8a512EBD6fd82f44dFFD968EEB0835265497d20"
+      },
+      "0x9738f1ceb7130b2e79ea53fe8f95d475148b581e93d5b99a10a683a6a4b33a10": {
+        "name": "fabricPainter",
+        "address": "0x494748735312D87C54Ff36E9dc71f90fb800D7Df"
+      }
+    },
+    "name": "development"
+  },
+  "0xc8e833b891bf930588e14d82c58ebaff5b0259076cb7e2ec1839fdabc446aa68": {
+    "contracts": {
+      "0x9738f1ceb7130b2e79ea53fe8f95d475148b581e93d5b99a10a683a6a4b33a10": {
+        "name": "fabricPainter",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      },
+      "0x361ca6093abd2fc7bda8add3752dbafafbdf79d9531c7cf8b7fd311b39dbdc17": {
+        "name": "fabricPainter",
+        "address": "0x10Aa1c9C2ad79b240Dc612cd2c0c0f5513bAfF28"
+      },
+      "0xcf1e37bbf3242b368b4a4d976f0751f787f179697a874bc5c49792204485e5c6": {
+        "name": "fabricPainter",
+        "address": "0xd8a512EBD6fd82f44dFFD968EEB0835265497d20"
+      }
+    },
+    "name": "development"
   }
 }

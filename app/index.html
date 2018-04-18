@@ -48,7 +48,7 @@
       <a class="uno" href="#ContratarPintor">Contratar Pintor</a>
       <a class="dos" href="#Reclamo">Reclamos del cliente</a>
       <a class="tres" href="#ReclamoPintor">Reclamos del pintor</a>
-      <a class="cuatro" href="#Oraculo">Oráculos</a>
+      <a class="cuatro" href="#Pinter">Pinter</a>
     </div>
 
 
@@ -60,10 +60,12 @@
     <div class="hide" style="diplay:none">
       <div id ="uno" style="padding-left:16px">
         <h2>Contratar Pintor</h2>
-        Direccion del pintor: <input type="text" name="address" value=""><br>
-        Precio: <input type="text" name="precio" value=""><br>
-        Cantidad de Oraculos en caso de disputa: <input type="text" name="oraculos" value="3"><br>
-        <input class="button" type="submit" value="Instanciar Contrato">
+        Direccion del pintor: <input id="address" type="text" value=""><br>
+        Precio: <input id="price" type="text" value=""><br>
+        Dia: <input id="day" type="text" value=""><br>
+        TiempoDisputa: <input id="Time" type="text"  value=""><br>
+        <!--Cantidad de Oraculos en caso de disputa: <input id="oracles" type="text" name="oraculos" value="3"><br>-->
+        <input class="button instantiate-contract"  type="submit" value="Instanciar Contrato">
       </div>
       <div id ="dos" style="padding-left:16px">
         <h2>Reclamo del cliente</h2>
@@ -74,15 +76,10 @@
         <p>Falta</p>
       </div>
       <div id ="cuatro" style="padding-left:16px">
-        <h2>Oráculos</h2>
-        <p>Falta.</p>
+        <h2>Selected pinter:</h2>
+        <div class="pinterContent"></div>
       </div>
     </div>
-
-
-
-
-
   </body>
   <script>
       $(document).ready(function(){

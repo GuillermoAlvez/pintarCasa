@@ -21,9 +21,9 @@ contract pintarCasa {
 
      event yaVoto(bool a);
     //diaPintado es el dia en el que el pintor va a pintar la casa,
-        //es la cantidad de dias desde la creacion del evento
+    //es la cantidad de dias desde la creacion del evento
     //_finDisputa es el tiempo que se tiene para disputar, sino se le dan los fondos al pintor
-    function pintarCasa(address _pintor, uint _diaPintado,uint _tiempoDisputa,uint _cantidadOraculos) public payable {
+    function pintarCasa(address _pintor, uint _diaPintado, uint _tiempoDisputa) public payable {
         cliente = msg.sender;
         pintor = _pintor;
         diaPintado = now + _diaPintado;
@@ -31,7 +31,7 @@ contract pintarCasa {
         disputaAbierta = false;
         pagoPintor = msg.value;
         finalizado = false;
-        cantidadOraculos = _cantidadOraculos;
+        cantidadOraculos = 3;
         totalVotosActual = 0;
         ganadorActual = _pintor;
         //faltaria validar rol de pintor
@@ -103,6 +103,10 @@ contract pintarCasa {
         ContratoFinalizado();
         return (antes, this.balance);
 
+    }
+
+    function getPinterInfo() public view returns (uint number) {
+            return 3;
     }
 
 
